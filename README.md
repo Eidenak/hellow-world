@@ -1,2 +1,4 @@
 # hellow-world
-this is my first step 
+Hi guys,
+
+Farooq here, i really don't know what to write 
